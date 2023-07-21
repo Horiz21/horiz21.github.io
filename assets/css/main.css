@@ -1984,10 +1984,10 @@ button,
       text-rendering: auto;
       line-height: 1;
       text-transform: none !important;
-      font-family: 'Font Awesome 6 Free';
+      font-family: "Open Sans", sans-serif;;
       font-weight: 900; }
     #sidebar .toggle:before {
-      content: '\f0c9';
+      content: '≡';
       font-size: 2rem;
       height: inherit;
       left: 0;
